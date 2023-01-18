@@ -1,0 +1,17 @@
+.pizza,
+.spaghetti,
+.cheeseburger {
+    font-family: Verdana, sans-serif;
+}
+
+.pizza {
+    color: red;
+}
+
+.spaghetti {
+    color: green;
+}
+
+.cheeseburger {
+    color: blue;
+}
